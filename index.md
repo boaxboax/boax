@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![](https://github.com/boaxboax/boax/blob/master/PHOTOS/images.png)
 
 ### Large image
 
